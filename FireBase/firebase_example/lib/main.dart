@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 
 void main()async{
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(options: FirebaseOptions(apiKey: "AIzaSyDTcUusAJwrn7oLEhb1SHP2e_3MCucScqI",
+  await Firebase.initializeApp(options: FirebaseOptions(apiKey: "",
     authDomain: "fir-8827d.firebaseapp.com",
     projectId: "fir-8827d",
     storageBucket: "fir-8827d.firebasestorage.app",
